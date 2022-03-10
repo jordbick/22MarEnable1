@@ -6,3 +6,5 @@ ANOTHER
 ONE MORE
 
 Added another line
+
+ANother one
